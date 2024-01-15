@@ -21,6 +21,9 @@ public class Student {
     private UUID studentId;
     private String name;
     private String email;
-    private String phoneNumber;
+    private String gender;
+    private String course;
+    private String[] timings;
+
 
 }
